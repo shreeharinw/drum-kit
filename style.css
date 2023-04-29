@@ -1,0 +1,21 @@
+.playing {
+  background-color: yellow;
+  color: black;
+}
+
+.key-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
+  color: white;
+}
+
+.key{
+  border: 2px solid white;
+  padding: 0 20px;
+}
+
+body{
+  background-image: url("background.jpg");
+}
